@@ -3,7 +3,7 @@
 Budgie app is a tool to track your expenses and analyze them, built with React , React router.
 
 ## Demo (Desktop only)
-[Demo.app](https://react-home-budget-app.netlify.app/)
+[Demo.app](https://chaouki-home-budget-app.netlify.app/)
 
 ---
 ![Screen Shot 2024-03-17 at 14 46 27](https://github.com/AymaneChaouki/react-router-HomeBudget-app/blob/master/src/assets/1.png)
